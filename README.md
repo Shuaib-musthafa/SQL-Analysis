@@ -4,9 +4,18 @@
 This project contains SQL queries for basic data analysis tasks using a sample Ecommerce SQL dataset.  
 I have used MySQL (you can mention SQLite/PostgreSQL if you use them).
 
-## Files
-- `task3_queries.sql`: Contains all the SQL queries.
+## 📁 Project Structure
+- `task3`: Contains all the SQL queries.
 - `screenshots/`: Folder containing output screenshots for each query.
+- Task3_SQL_Data_Analysis/
+│
+├── task3_queries.sql    # (All your SQL queries)
+├── README.md            # (Documentation about your task)
+├── screenshots/         # (All screenshots of your outputs)
+│    ├── query1.png
+│    ├── query2.png
+│    └── ....
+
 
 ## Key SQL Concepts Used
 - SELECT, WHERE, ORDER BY, GROUP BY
